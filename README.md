@@ -22,6 +22,25 @@ of user interface and system architecture, mainly in the form of UML diagrams.
 
 ---
 
+## Contents
+
+1. Project vision
+2. Business goals 
+3. Business requirements
+4. Economic justifiability of the project
+5. Business Domain Model
+6. Business Process Model
+7. System requirements diagrams
+8. Actors and use cases diagrams
+9. Analytical Domain Model
+10. Detailed specifications of the non-trivial use cases
+11. State diagram
+12. Components diagrams
+13. Sequential diagrams of the non-trivial use cases
+14. Deployment diagram
+
+---
+
 ## Important notes
 
 1. Unlike the [previous](https://github.com/IvanShestachenko/Project-Analysis-I) resembling project, my role in the team here was a regular individual contributor working on the assigned tasks. Because of this fact, regardless of my personal contribution, I do not hold full responsibility for 100% of the contents of this documentation. However, I can claim to have the complete understanding and the ability to produce
