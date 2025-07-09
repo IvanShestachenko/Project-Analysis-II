@@ -1,7 +1,7 @@
 # Project-Analysis-II
 
 This repository contains project analysis documentation that was produced as my team's coursework project
-within **FEL CTU B6B36SMP – Analysis and Modeling of Software Requirements** university course.  
+within **CTU FEE B6B36SMP – Analysis and Modeling of Software Requirements** university course.  
 The majority of content was created following the UML notation, using Enterprise Architect modelling tool. 
 
 ---
@@ -51,4 +51,4 @@ similar analysis documentations on different business cases.
 
 ## Author
 
-**Ivan Shestachenko, 2025, B6B36SMP @ FEL CTU**
+**Ivan Shestachenko, 2025, B6B36SMP @ FEE CTU**
