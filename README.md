@@ -24,7 +24,7 @@ of user interface and system architecture, mainly in the form of UML diagrams.
 
 ## Contents
 
-1. Project vision
+1. Brief project vision
 2. Business goals 
 3. Business requirements
 4. Economic justifiability of the project
